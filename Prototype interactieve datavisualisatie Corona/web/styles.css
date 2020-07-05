@@ -1,0 +1,16 @@
+.hover-effect {
+    fill: #fff!important;
+    opacity: 1;
+}
+
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
+html *
+{
+   color: #000 !important;
+   font-family: Arial !important;
+}
